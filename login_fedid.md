@@ -94,7 +94,7 @@ The required API key is the {{site.data.keyword.Bluemix_notm}} API key that's us
     * Call the API key with the key file:
 
       ```
-      ibmcloud login --apikey @key_file_name
+      ibmcloud login --apikey '@key_file_name'
 
       ```
 
